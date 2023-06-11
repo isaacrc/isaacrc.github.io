@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sam Nastase"
+title                    : "Isaac Ray Christain"
 title_separator          : "-"
-name                     : &name "Sam Nastase"
+name                     : &name "Isaac Ray Christian"
 description              : &description "Research scholar at Princeton University"
-url                      : https://snastase.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://isaacrc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "snastase/snastase.github.io"
+repository               : "isaacrc/isaacrc.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &samnastase
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sam Nastase"
-  avatar           : "profile.jpg"
+  name             : "Isaac Ray Christian
+  avatar           : 
   bio              : "Research scholar at Princeton University"
   location         : "Princeton, NJ, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=tjLH8mQAAAAJ&hl=en"
-  email            : "sam.nastase@gmail.com"
+  googlescholar    : 
+  email            : "ichrstn1212.gmail.com"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "snastase"
+  github           : "isaacrc
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-7013-5275"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "samnastase"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
