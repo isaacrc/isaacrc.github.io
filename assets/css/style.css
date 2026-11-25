@@ -325,6 +325,30 @@ audio {
   margin-top: 0.2em;
 }
 
+.promo-videos {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5em;
+  margin-top: 2em;
+}
+
+.promo-video-item video {
+  width: 100%;
+  display: block;
+  border-radius: 4px;
+}
+
+.promo-label {
+  text-align: center;
+  font-size: 1em;
+  margin: 0.5em 0 0;
+  color: var(--color-heading);
+}
+
+@media (max-width: 700px) {
+  .promo-videos { grid-template-columns: 1fr; }
+}
+
 /* ── RESPONSIVE ──────────────────────────────── */
 @media (max-width: 700px) {
   .about-columns { flex-direction: column; }
