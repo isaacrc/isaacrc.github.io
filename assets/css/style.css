@@ -1,12 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;1,400&family=Bodoni+Moda:ital,opsz,wght@0,6..96,400;0,6..96,700;1,6..96,400&family=Albert+Sans:wght@300;400;500&display=swap');
-
 :root {
   --color-bg: #ffffff;
   --color-text: #333333;
   --color-heading: #000000;
   --color-link: #006ba1;
-  --font-heading: 'Crimson Pro', serif;
-  --font-display: 'Bodoni Moda', serif;
+  --font-heading: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --font-display: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   --font-body: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   --size-xx-large: clamp(3rem, 3rem + ((1vw - 0.2rem) * 1.905), 4rem);
   --size-large: clamp(32px, 1.666vw, 36px);
